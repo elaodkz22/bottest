@@ -7,7 +7,7 @@ import time
 # ============================================
 #  PEGA TU NUEVO TOKEN AQUÍ (del @BotFather)
 # ============================================
-TOKEN = "TU_TOKEN_AQUI"  
+TOKEN = "8401853349:AAFt0_bZDFMx7OQHvYv6iTTiwc0KG2bhmz0"  
 
 DB_FILE = "videos.json"
 
@@ -104,3 +104,4 @@ if GRUPO_ID != -100XXXXXXXXX:
     fetch_history(GRUPO_ID, limit=500)
 
 bot.infinity_polling()
+
